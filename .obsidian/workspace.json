@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf829ffb78da284d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Guides/ChatGPT.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Guides/ChatGPT.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Guides/ChatGPT.md"
+                "file": "README.md"
               }
             }
           },
@@ -175,17 +187,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6a1dcf2ff000bf6e",
+  "active": "bf829ffb78da284d",
   "lastOpenFiles": [
+    "General Guides/ChatGPT.md",
+    "README.md",
     "Untitled 1.md",
     "General Guides",
-    "General Guides/ChatGPT.md",
     "images/malcolm_landing_page.png",
     "images",
     "Install Guides/Ubuntu",
