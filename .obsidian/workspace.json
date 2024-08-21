@@ -40,21 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf829ffb78da284d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "General Guides/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "General Guides/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "General Guides/ChatGPT.md"
               }
             }
           },
@@ -193,8 +181,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bf829ffb78da284d",
+  "active": "6a1dcf2ff000bf6e",
   "lastOpenFiles": [
+    "README.md",
     "docker-compose/README.MD",
     "docker-compose/cloudflareddns/README.md",
     "docker-compose/cloudflareddns/docker-compose.yml",
@@ -239,7 +228,6 @@
     "docker-compose/dashy/public/item-icons/svg/pagerduty.svg",
     "docker-compose/dashy/public/item-icons/svg/overseerr.svg",
     "docker-compose/dashy/public/item-icons/svg/ntop.svg",
-    "docker-compose/dashy/public/item-icons/svg/mkdocs.svg",
-    "docker-compose/dashy/README.md"
+    "docker-compose/dashy/public/item-icons/svg/mkdocs.svg"
   ]
 }
